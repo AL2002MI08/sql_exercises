@@ -49,4 +49,3 @@ Or copy and run the SQL statements directly inside your client's query editor.
 2. **Adding a New Exercise**:
    - Create a numbered directory (e.g., `02_ecommerce_db/`).
    - Add `solution.sql` with your SQL queries and a `README.md` describing the tasks.
-   - Commit and push to `dev`, then open a pull request to `main`.

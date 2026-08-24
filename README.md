@@ -47,5 +47,5 @@ Or copy and run the SQL statements directly inside your client's query editor.
    - `main`: Stable, completed solutions.
    - `dev`: Active development and working branch for new exercises.
 2. **Adding a New Exercise**:
-   - Create a numbered directory (e.g., `02_ecommerce_db/`).
+   - Create a numbered directory (e.g., `01_movies_db/`).
    - Add `solution.sql` with your SQL queries and a `README.md` describing the tasks.
